@@ -1,11 +1,11 @@
 const classes = [
-  "Lutador",
-  "Mago",
-  "Arqueiro",
-  "Guerreiro",
-  "Feiticeiro",
-  "Assassino",
-  "Místico Cavaleiro"
+  "⚔️ Lutador - Corpo a corpo com escudo e espada",
+  "🧙🏽 Mago - Magias de cura e ataque elemental",
+  "🏹 Arqueiro - Ataques à distância com arco",
+  "🛡️ Guerreiro - Forte e resistente com armas pesadas",
+  "🔮 Feiticeiro - Magias poderosas e devastadoras",
+  "🗡️ Assassino - Versátil, combina força e agilidade",
+  "🌌 Místico Cavaleiro - Magia + combate corpo a corpo"
 ];
 
 const lista = document.getElementById('lista-classes');
