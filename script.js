@@ -6,6 +6,7 @@ const classes = [
   "🔮 Feiticeiro - Magias poderosas e devastadoras",
   "🗡️ Assassino - Versátil, combina força e agilidade",
   "🌌 Místico Cavaleiro - Magia + combate corpo a corpo"
+  "✨ Arqueiro Mágico - Magia + combate a distancia"
 ];
 
 const lista = document.getElementById('lista-classes');
