@@ -5,7 +5,7 @@ const classes = [
   "🛡️ Guerreiro - Forte e resistente com armas pesadas",
   "🔮 Feiticeiro - Magias poderosas e devastadoras",
   "🗡️ Assassino - Versátil, combina força e agilidade",
-  "🌌 Místico Cavaleiro - Magia + combate corpo a corpo"
+  "🌌 Místico Cavaleiro - Magia + combate corpo a corpo",
   "✨ Arqueiro Mágico - Magia + combate a distancia"
 ];
 
